@@ -13,11 +13,7 @@ SwiftUI: Uses lists and navigation views to build a straightforward news reader.
 
 Networking: Fetches data from the Hacker News API for real-time updates.
 
-WebKit: Embeds a web view to di
-
-https://github.com/user-attachments/assets/d9ff1cf6-b5aa-40eb-afae-fa4582499bed
-
-splay full articles.
+WebKit: Embeds a web view to display full articles.
 
 # *Getting Started*
 
@@ -35,5 +31,4 @@ https://github.com/user-attachments/assets/7964985e-f13a-4601-9aad-8887b444d1ad
 
 
 
-https://github.com/user-attachments/assets/19ececfe-a3e0-4626-9e8c-a369911dee07
 
