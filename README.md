@@ -31,5 +31,9 @@ Hacker News demonstrates the power of SwiftUI and networking, showing how to bui
 
 
 
+https://github.com/user-attachments/assets/7964985e-f13a-4601-9aad-8887b444d1ad
+
+
+
 https://github.com/user-attachments/assets/19ececfe-a3e0-4626-9e8c-a369911dee07
 
