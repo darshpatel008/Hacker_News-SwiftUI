@@ -26,8 +26,11 @@ Browse the latest headlines and tap on any story to read more.
 Hacker News demonstrates the power of SwiftUI and networking, showing how to build a simple news reader app. It’s perfect for developers interested in combining SwiftUI with APIs to display dynamic data.
 
 
+https://github.com/user-attachments/assets/7d79e1de-e019-45aa-8e8f-ae089d00c205
 
-https://github.com/user-attachments/assets/7964985e-f13a-4601-9aad-8887b444d1ad
+
+
+
 
 
 
